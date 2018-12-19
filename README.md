@@ -4,6 +4,6 @@ I could have just made a switch that uses some crusty iPhone app that I had to o
 
 To take it to the next level - I got it to work with homekit using a project called Homebridge (check it on github yo).  So yeah - I can turn on my fireplace from a shortcut on the iphone control center.  Tres Cool. 
 
-The next part that I'm working on will provide a homekit enabled button (Single Click - turns on fireplace, Double Click - turns off) that is next to my couch.  Using particle.io devices makes it easy to trigger events in other arduino devices and web APIs.  The code here is designed for Particle.io devices, but can be slightly modified to work on a regular arduino.
+The next part that I'm working on will provide a homekit enabled button (Single Click - turns on fireplace, Double Click - turns off) that is next to my couch.  Using particle.io devices makes it easy to trigger events in other arduino devices and web APIs.  The code here is designed for (Particle.io)[http://particle.io] devices, but can be slightly modified to work on a regular arduino.
 
 This is a side-project of mine.  I wanted to learn about Arduinos and ultimately, be able to control fire.  I am not responsible for you using this code to accidentally burn down your house.  Seriously, be careful.  use at your own risk.
