@@ -16,4 +16,4 @@ What I've got here
 - Some pictures of my setup
 - A few screenshots of my phone and Macbook controls
 
-
+![Image of Fireplace Switch](https://github.com/aaronrothschild/fireplace_switch/blob/master/2019-01-07_13-18-23.png)
