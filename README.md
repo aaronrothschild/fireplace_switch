@@ -2,7 +2,7 @@ Since the beggining of time, people have been mesmerized by fire.  It's enchanti
 
 I could have just used some smartplug from amazon and a crusty iPhone app that I had to open...but what kind of control would that ever provide my inner neolithic man-urges?  Not much.  Cool to show and use it once.  
 
-Also it's not very wife friendly.  She doesn't want to open an app to turn on the fireplace.  She wants a button or remote control that she can rest her fingers upon.  Not some virtual button.  The fireplace already has a remote - and she likes it.  I just want to be able to also do this from my iPhone though....
+Also it's not very non-technical partner friendly.  My wife doesn't want to open an app to turn on the fireplace.  She wants a button or remote control that she can rest her fingers upon.  Not some virtual button.  The fireplace already has a remote - and she likes it.  I just want to be able to also do this from my iPhone though....
 
 To take it to the next level - I got it to work with homekit using a project called [Homebridge](https://github.com/nfarina/homebridge) that lets you connect a LOT of different IoT type-stuff into Apple's homekit.  Homekit certification is expensive so many products only work with Alexa/Google - not HomeKit.  Bummer, but Homebridge lets you overcome that.  So yeah - I can turn on my fireplace from a shortcut on the iphone control center.  Trés Cool. 
 
